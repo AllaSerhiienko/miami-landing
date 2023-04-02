@@ -1,1 +1,1 @@
-- [DEMO LINK](https://AllaSerhiienko.github.io/layout_catalog/)
+- [DEMO LINK](https://AllaSerhiienko.github.io/miami_landing/)
